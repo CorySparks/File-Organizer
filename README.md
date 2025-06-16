@@ -48,6 +48,16 @@ Example:
 
 ## 🚀 How to Use
 
+### 🧑‍💻 Option 1: EXE (Recommended for Non-Developers)
+
+If you're not familiar with Python:
+1. Download the `downloadsFileOrganizer.exe` from the [Releases](../../releases) section.
+2. Double-click to run it — no installation needed!
+3. Wait for the popup that tells you it's done.
+4. Check your Desktop for the `file_organizer_log.txt` file.
+
+### 🐍 Option 2: Run with Python
+
 1. Make sure you have **Python 3.12+** installed.
 2. Download or clone this repo.
 3. Open a terminal in the project folder.
